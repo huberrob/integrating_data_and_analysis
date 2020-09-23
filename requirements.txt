@@ -1,0 +1,5 @@
+Cartopy==0.17.0
+icoscp==0.1.2
+pandas==0.25.0
+pangaeapy==0.0.4
+matplotlib==3.1.0
