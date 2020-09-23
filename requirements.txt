@@ -1,2 +1,0 @@
-icoscp==0.1.2
-pangaeapy==0.0.4
