@@ -1,0 +1,9 @@
+dependencies:
+  - icoscp==0.1.2
+  - pandas==1.0.1
+  - pangaeapy==0.0.4
+  - matplotlib==3.1.0
+  - numpy==1.18.1
+  - scipy==1.4.1
+  - shapely
+  - Cartopy==0.18.0
